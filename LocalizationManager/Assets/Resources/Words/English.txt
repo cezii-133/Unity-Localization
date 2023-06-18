@@ -1,0 +1,7 @@
+0 : Cat
+1 : Dog
+2 : Plane
+3 : Car
+4 : Tank
+5 : House
+
